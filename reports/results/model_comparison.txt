@@ -1,0 +1,10 @@
+Model Comparison Results
+==================================================
+
+               Model  R2_Score_Train  R2_Score_Test     MSE_Train  MSE_Test
+0  Linear Regression        0.744497       0.734175  3.304493e-01  0.338967
+1      Decision Tree        1.000000       0.660671  7.771877e-32  0.432696
+2      Random Forest        0.975486       0.821621  3.170508e-02  0.227460
+
+Best Model (by R2 Score on Test Set):
+  Random Forest: R2 = 0.8216
