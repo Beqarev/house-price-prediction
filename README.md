@@ -166,7 +166,3 @@ See `requirements.txt` for the complete list of dependencies. Main packages incl
 ## License
 
 This project is for academic purposes.
-
-## Contact
-
-For questions or issues, please refer to the project repository.
