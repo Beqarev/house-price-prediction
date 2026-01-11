@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Virtual Environment
+venv/
+env/
+ENV/
+.venv
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Project specific - exclude extra documentation files
+FINAL_RESULTS.md
+MODEL_IMPROVEMENTS.md
+QUICK_START.md
+VISUALIZATION_CHECK.md
+
+# Data (if you want to exclude large files, uncomment below)
+# data/raw/*.csv
+# data/processed/*.csv
